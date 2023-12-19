@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ecigwegbu
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning web development, Linux.
-- 💞️ I’m looking to collaborate on software development.
-- 📫 How to reach me here. 
+- 👀 A veteran programmer/DevOps practisioner; specialising in back-end business solutions.
+- 🌱 My prefered platform is Enterprise Linux.
+- 💞️ I'm interested in collaborating on innovative software development.
 
 <!---
 ecigwegbu/ecigwegbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
