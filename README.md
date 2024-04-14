@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ecigwegbu
-- 👀 A veteran programmer/DevOps practisioner; specialising in back-end business solutions.
+- 👀 A veteran programmer/DevOps practitioner; specialising in back-end business solutions.
 - 🌱 My prefered platform is Enterprise Linux.
 - 💞️ I'm interested in collaborating on innovative software development.
 
